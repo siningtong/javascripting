@@ -17,10 +17,6 @@ const eqArrays=function(array1, array2){
     }
   }
 
-const printSomething = function (word){
-  console.log(word);
-}
-
 
 // let arr1 = [1,2];
 // let arr2 = [1,2];
