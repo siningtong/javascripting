@@ -20,7 +20,7 @@ const assertEqual=function(actual,expected){
     }
     return true;
   }
-console.log(eqArrays(["1", "2", "3"], ["1", "2", 3]))
+//console.log(eqArrays(["1", "2", "3"], ["1", "2", 3]))
 assertEqual(eqArrays([1, 2, 3], [1, 2, 3]), true) // => true
   
 assertEqual(eqArrays(['a','aswe'],[1,'rsa','ase']),false)
